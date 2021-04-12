@@ -13,7 +13,7 @@ use App\Http\Controllers\User\UserController;
 | is assigned the "api" middleware group. Enjoy building your API!
 |
 */
-
+// Hello G ki haal hai
 // Route::middleware('auth:api')->get('/user', function (Request $request) {
 //     return $request->user();
 // });
